@@ -1,8 +1,8 @@
 ;;; poker.el --- A simple poker game for Emacs
 
-;; Copyright (C) 2006  marca
+;; Copyright (C) 2006  Marc Abramowitz
 
-;; Author: marca <marca@dressnation-lm.corp.yahoo.com>
+;; Author: Marc Abramowitz <marc@marc-abramowitz.com>
 ;; Keywords: games
 
 ;; This file is free software; you can redistribute it and/or modify
